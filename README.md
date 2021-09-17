@@ -1,1 +1,3 @@
-# first-repo
+# Demo
+
+This is the demo project!
